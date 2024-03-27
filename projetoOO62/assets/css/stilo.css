@@ -1,0 +1,38 @@
+body{
+    background: rgb(71, 71, 71);
+    margin: auto;
+}
+
+a{
+    margin-top: 5px;
+    padding: 5px;    
+    text-decoration-line: blue;  color: rgb(250, 249, 249);
+    border-radius: 5px;
+    
+}
+
+div{
+    height: 20px;
+    padding: 5px 10px;
+    margin: 15px auto;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.collapse{
+    color: aliceblue;
+}
+
+.nav{
+    height: 700px;
+}
+
+.position-absolute{
+    width: 450px;
+    display: flex;
+    justify-items: center;
+
+    border-radius: 360px;
+}
